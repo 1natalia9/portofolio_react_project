@@ -7,13 +7,13 @@
 	justify-content: center;
 	align-items: center;
 
-	background-color: var(--header-bg);
+	background-color:#1abc9c;
 	background-image: url('./../../img/header-bg.png');
 	background-repeat: no-repeat;
 	background-size: auto;
 	background-position: center center;
 
-	color: var(--header-text);
+	color: #ecf0f1;
 	text-align: center;
 }
 
@@ -36,7 +36,7 @@
 
 .header__title em {
 	font-style: normal;
-	color: var(--accent);
+	color:#34495e;
 }
 
 .header__text {
@@ -46,5 +46,5 @@
 }
 
 .header__text p + p {
-	margin-top: 0.5em;
+	margin-top: 0.5px;
 }

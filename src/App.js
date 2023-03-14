@@ -9,14 +9,11 @@ import Projects from "./pages/Projects";
 import Project from "./pages/Project";
 import Contacts from "./pages/Contacts";
 
-import ScrollToTop from "./utils/scrollToTop"
-
 function App() {
   return (
 		<div className="App">
 			<Router>
-				<ScrollToTop />
-				<Navbar />
+			  <Navbar />
 				<Routes>
 					<Route path="/" element={<Home />} />
 					<Route path="/projects" element={<Projects />} />

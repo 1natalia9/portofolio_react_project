@@ -1,5 +1,4 @@
 import {useParams} from "react-router-dom";
-import BtnGitHub from "../components/btnGitHub/BtnGitHub";
 import {projects} from "./../helpers/projectsList"
 
 const Project = () => {
@@ -22,9 +21,6 @@ const Project = () => {
 						<p>Skills: {project.skills}</p>
 					</div>
 
-					{project.gitHubLink && (
-						<BtnGitHub link="https://github.com" />
-					)}
 				</div>
 			</div>
 		</main>
