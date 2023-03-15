@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/port/static/css/main.9b61eb46.css",
-    "main.js": "/port/static/js/main.646bd771.js",
-    "static/media/01-big.jpg": "/port/static/media/01-big.f10f15bef68deb8f6267.jpg",
-    "static/media/01.jpg": "/port/static/media/01.b03bab9cc3400d73be37.jpg",
-    "static/media/header-bg.png": "/port/static/media/header-bg.5bf82a058f892ab7f237.png",
-    "static/media/gitHub.svg": "/port/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
-    "static/media/instagram.svg": "/port/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
-    "static/media/vk.svg": "/port/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
-    "static/media/twitter.svg": "/port/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
-    "static/media/linkedIn.svg": "/port/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
-    "index.html": "/port/index.html",
-    "main.9b61eb46.css.map": "/port/static/css/main.9b61eb46.css.map",
-    "main.646bd771.js.map": "/port/static/js/main.646bd771.js.map"
+    "main.css": "/portfoliomart/static/css/main.90a74031.css",
+    "main.js": "/portfoliomart/static/js/main.061d2ded.js",
+    "static/media/01-big.jpg": "/portfoliomart/static/media/01-big.f10f15bef68deb8f6267.jpg",
+    "static/media/01.jpg": "/portfoliomart/static/media/01.b03bab9cc3400d73be37.jpg",
+    "static/media/header-bg.png": "/portfoliomart/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/gitHub.svg": "/portfoliomart/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/instagram.svg": "/portfoliomart/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/portfoliomart/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/portfoliomart/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/portfoliomart/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/portfoliomart/index.html",
+    "main.90a74031.css.map": "/portfoliomart/static/css/main.90a74031.css.map",
+    "main.061d2ded.js.map": "/portfoliomart/static/js/main.061d2ded.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b61eb46.css",
-    "static/js/main.646bd771.js"
+    "static/css/main.90a74031.css",
+    "static/js/main.061d2ded.js"
   ]
 }
