@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfoliomart/static/css/main.90a74031.css",
-    "main.js": "/portfoliomart/static/js/main.061d2ded.js",
-    "static/media/01-big.jpg": "/portfoliomart/static/media/01-big.f10f15bef68deb8f6267.jpg",
-    "static/media/01.jpg": "/portfoliomart/static/media/01.b03bab9cc3400d73be37.jpg",
-    "static/media/header-bg.png": "/portfoliomart/static/media/header-bg.5bf82a058f892ab7f237.png",
-    "static/media/gitHub.svg": "/portfoliomart/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
-    "static/media/instagram.svg": "/portfoliomart/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
-    "static/media/vk.svg": "/portfoliomart/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
-    "static/media/twitter.svg": "/portfoliomart/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
-    "static/media/linkedIn.svg": "/portfoliomart/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
-    "index.html": "/portfoliomart/index.html",
-    "main.90a74031.css.map": "/portfoliomart/static/css/main.90a74031.css.map",
-    "main.061d2ded.js.map": "/portfoliomart/static/js/main.061d2ded.js.map"
+    "main.css": "/portofolio_react_project/static/css/main.9540d0e6.css",
+    "main.js": "/portofolio_react_project/static/js/main.955ec9c1.js",
+    "static/media/01-big.jpg": "/portofolio_react_project/static/media/01-big.f10f15bef68deb8f6267.jpg",
+    "static/media/01.jpg": "/portofolio_react_project/static/media/01.b03bab9cc3400d73be37.jpg",
+    "static/media/header-bg.png": "/portofolio_react_project/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/gitHub.svg": "/portofolio_react_project/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/instagram.svg": "/portofolio_react_project/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/portofolio_react_project/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/portofolio_react_project/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/portofolio_react_project/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/portofolio_react_project/index.html",
+    "main.9540d0e6.css.map": "/portofolio_react_project/static/css/main.9540d0e6.css.map",
+    "main.955ec9c1.js.map": "/portofolio_react_project/static/js/main.955ec9c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.90a74031.css",
-    "static/js/main.061d2ded.js"
+    "static/css/main.9540d0e6.css",
+    "static/js/main.955ec9c1.js"
   ]
 }
